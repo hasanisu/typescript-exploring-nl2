@@ -8,7 +8,7 @@ let anything: any; // ei khane kono nirdishto type declare kora hoinai jonno jek
 
 anything = "Next Level Web Development"; // anything k ekta string hishe declare koreci
 
-(anything as string). //ami sure j anything ekta string tai anythink k string hishebe declare koreci 
+(anything as string).charAt //ami sure j anything ekta string tai anythink k string hishebe declare koreci 
                      //and eita first braket er moddhe rekhe pore . dile eitar moddhe string er shob type chole ashbe 
                      // same to same number er khetrew hobe.
 
