@@ -41,6 +41,7 @@
 
     }
     const res1 = getPeropertyValue(car, 'model')
+    console.log(res1)
 
 
 

@@ -3,7 +3,7 @@
     /* Memory change hoi na  */
 
     /*
-    Jodi kono property er shamen static thake tahole take oi property er class er name dhore call korte hobe 
+    Jodi kono property er shamne static thake tahole take oi property er class er name dhore call korte hobe 
     */
 
     // class Counter {
